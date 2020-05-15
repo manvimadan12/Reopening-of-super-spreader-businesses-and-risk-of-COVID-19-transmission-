@@ -19,9 +19,9 @@
 * [NAICS](https://www.naics.com/search/) - (to map business codes to businesses and industries)
 
 
-<h3>Participants: </h3>
+<h3>Team Members: </h3>
 
-Ashley O’Donoghue, PhD<br>
+Ashley O’Donoghue, PhD (Project Manager)<br>
 Tenzin Dechen, MPH<br>
 Whitney Pavlova<br>
 Dr GARBA Moussa<br>
